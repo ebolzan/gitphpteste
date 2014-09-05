@@ -6,3 +6,6 @@
  * and open the template in the editor.
  */
 
+echo "eu sou comedor";
+echo "demais";
+
